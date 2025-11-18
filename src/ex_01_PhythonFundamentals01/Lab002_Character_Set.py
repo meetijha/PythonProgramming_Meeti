@@ -1,0 +1,5 @@
+print(1,"Letter-", "A-Z, a-z")
+print(2,"Digit-","0-9")
+print(3,"Special Symbols-","+ - * / %")
+print(4,"White spaces","blank space ,tab(\t), newline(\n) etc")
+print(5, "All ASCII and Unicode chars as part of data and literals")
